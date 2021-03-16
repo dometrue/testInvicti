@@ -1,7 +1,10 @@
 # testInvicti
 Selenium Webdriver test webpage
+
 To make sure you can run this tests you have to have the following prerquisites:
+
 Install the latest Chrome and chromedriver.
+
 Make sure that the following IDE is installed: Eclipse IDE for Java Developers - 2020-03
 Run the test by checking the following requirements and comparing them to the actual results:
 
